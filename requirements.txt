@@ -2,6 +2,6 @@ fastapi
 uvicorn
 numpy
 scikit-learn
-spacy==3.8.1
+spacy==3.8.11
 sentence-transformers==2.7.0
 torch==2.1.2+cpu
